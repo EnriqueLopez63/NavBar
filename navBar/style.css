@@ -1,0 +1,25 @@
+nav{
+    background-color: #646F4B;
+    position: center;
+    width: 85%;
+    border-radius: 3%;
+}
+
+nav ul{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+nav li{
+    list-style-type: none;
+    margin: 20px;
+}
+
+nav a{
+    color: black;
+    text-decoration: none;
+    font-weight: 300%;
+}
